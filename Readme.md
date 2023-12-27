@@ -8,14 +8,17 @@
 
 
 
-![e3b4225bd3912834776cbdbe51619295](%7Freadme.assets/e3b4225bd3912834776cbdbe51619295.gif)
+![e3b4225bd3912834776cbdbe51619295](./Readme.assets/snake.gif)
 
 
 
 图为使用的Xilinx FPGA开发板
 
-<img src="%7Freadme.assets/image-20231227162402619.png" alt="image-20231227162402619" style="zoom:50%;" />
+
+
+<img src="./Readme.assets/device.png" alt="image-20231227162459898" style="zoom:70%;" />
 
 图为测试VGA显示模块，在显示器上输出图片
 
-<img src="%7Freadme.assets/image-20231227162459898.png" alt="image-20231227162459898" style="zoom:20%;" />
+<img src="./Readme.assets/vga_test.png" alt="image-20231227162402619" style="zoom:30%;" />
+
